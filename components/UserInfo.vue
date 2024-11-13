@@ -1,11 +1,11 @@
 <template>
-    <div class="w-1/2 bg-white p-6 rounded-lg shadow-lg mb-6">
+    <div class="w-2/5 bg-white p-6 rounded-lg shadow-lg mb-6">
         <div class="flex items-center">
           <img
             alt="Profile picture of the user"
             class="w-24 h-24 rounded-full mr-6"
             height="100"
-            src="https://storage.googleapis.com/a1aa/image/CfQfNL9pxchGWUO9Ll0lgCWvvBzPp7LCZW2wreewTOi3Mt3OB.jpg"
+            src="/user-profile.png"
             width="100"
           />
           <div>
